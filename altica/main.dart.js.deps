@@ -12,6 +12,7 @@ file:///Users/liv/Downloads/altica_app-messagepage/lib/ui/home_page.dart
 file:///Users/liv/Downloads/altica_app-messagepage/lib/ui/messages_page.dart
 file:///Users/liv/Downloads/altica_app-messagepage/lib/usecase/login_use_case.dart
 file:///Users/liv/Downloads/altica_app-messagepage/lib/usecase/server_status_use_case.dart
+file:///Users/liv/Downloads/altica_app-messagepage/lib/utility/hex_color.dart
 file:///Users/liv/Programming/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
 file:///Users/liv/Programming/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/charcode.dart
 file:///Users/liv/Programming/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/html_entity.dart
