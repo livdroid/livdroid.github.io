@@ -1,28 +1,22 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "favicon.ico": "69375a1198dbbace450a28f2c70ec684",
-"index.html": "a9cecd93af7bd93f932be01377923264",
-"/": "a9cecd93af7bd93f932be01377923264",
-"main.dart.js": "05702aff247adf0bd6523e735dcbd5d0",
-"assets/LICENSE": "c82f7c950df159443b0a9b2210c0835b",
-"assets/AssetManifest.json": "baf6e0e26a217680939895575be6e25e",
-"assets/FontManifest.json": "0edc3beed02397717062f013caae55ac",
+  "index.html": "a124bb9fcbff10e7cdce13375b57db99",
+"/": "a124bb9fcbff10e7cdce13375b57db99",
+"main.dart.js": "03f8f9f8d6a109a93291572d3c6ebb2d",
+"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
+"manifest.json": "4d6d8d00ee69b8d512b795341a2440ef",
+"assets/LICENSE": "91750473e3cf314448ffd3bf3ae1975d",
+"assets/AssetManifest.json": "fdcef8199482c65baa09b45c10f24ae5",
+"assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/icon/outline_star_border_black_24dp.png": "02de655de81ee185078c5dbac0c28e18",
-"assets/icon/outline_star_black_24dp.png": "8c43e44440052afea9f0d433c7f4b4db",
-"assets/icon/round_refresh_white_18dp.png": "4066ad110c4b9743c8483e45a999692f",
-"assets/icon/delete.png": "b0879b0bcc364197dc4dff5f4e838c63",
-"assets/icon/outline_star_border_white_24dp.png": "63f1be9b6d7d6b129fc4aa20fa9dfde2",
-"assets/icon/delete-white.png": "088f07ae5c4538c16983852bef54c2e9",
-"assets/icon/outline_star_white_24dp.png": "b5fb02fd11716e3d7c352164b74b5711",
-"assets/assets/logo_altica.png": "7d0111f72f8213c6f5baf3f5315242ee",
-"assets/assets/icon/outline_star_border_black_24dp.png": "02de655de81ee185078c5dbac0c28e18",
-"assets/assets/icon/outline_star_black_24dp.png": "8c43e44440052afea9f0d433c7f4b4db",
-"assets/assets/icon/delete.png": "b0879b0bcc364197dc4dff5f4e838c63",
-"assets/assets/icon/outline_star_border_white_24dp.png": "63f1be9b6d7d6b129fc4aa20fa9dfde2",
-"assets/assets/icon/delete-white.png": "088f07ae5c4538c16983852bef54c2e9",
-"assets/assets/icon/outline_star_white_24dp.png": "b5fb02fd11716e3d7c352164b74b5711"
+"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
+"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
+"assets/assets/posts/post_1.md": "ab831344c405c92d8961f7298274b5d1",
+"assets/assets/posts/post_3.md": "ab831344c405c92d8961f7298274b5d1",
+"assets/assets/posts/post_2.md": "ab831344c405c92d8961f7298274b5d1"
 };
 
 self.addEventListener('activate', function (event) {
